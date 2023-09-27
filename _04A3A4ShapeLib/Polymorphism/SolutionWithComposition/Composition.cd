@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="FHTW.Swen1.ShapeLib.Polymorphism.SolutionWithComposition.ComposedShape" Collapsed="true">
+    <Position X="8.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAIIAAAIBAAACAAABEAAAAAEAAAAAA=</HashCode>
+      <FileName>Polymorphism\SolutionWithComposition\ComposedShape.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="FHTW.Swen1.ShapeLib.Polymorphism.SolutionWithComposition.ComposedLine" Collapsed="true">
+    <Position X="6" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Polymorphism\SolutionWithComposition\ComposedLine.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FHTW.Swen1.ShapeLib.Polymorphism.SolutionWithComposition.ComposedCircle" Collapsed="true">
+    <Position X="11" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Polymorphism\SolutionWithComposition\ComposedCircle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_04A3A4ShapeLib.Polymorphism.SolutionWithComposition.ComposedRect" Collapsed="true">
+    <Position X="8.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Polymorphism\SolutionWithComposition\ComposedRect.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
