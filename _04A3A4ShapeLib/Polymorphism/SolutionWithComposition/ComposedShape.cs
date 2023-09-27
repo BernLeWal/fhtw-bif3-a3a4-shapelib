@@ -9,6 +9,7 @@ namespace FHTW.Swen1.ShapeLib.Polymorphism.SolutionWithComposition
     public abstract class ComposedShape : IPrinter, ICalculator
     {
         protected readonly IPrinter _printer;
+        // this is my better documentation, added in feature/rectangle
         protected readonly ICalculator _calculator;
 
         protected ComposedShape(IPrinter printer, ICalculator calculator)
