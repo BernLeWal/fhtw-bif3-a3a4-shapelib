@@ -1,4 +1,5 @@
-﻿using System.Threading.Channels;
+﻿using _04A3A4ShapeLib.Polymorphism.SolutionWithComposition;
+using System.Threading.Channels;
 
 namespace _04A3A4ShapeLib
 {
@@ -7,6 +8,9 @@ namespace _04A3A4ShapeLib
         static void Main(string[] args)
         {
             Console.WriteLine("Hello, World!");
+
+            var rect = new ComposedRect(1, 2, 3, 4);
+            rect.PrintShapeType();
 
             var myObject = new Program();
 
